@@ -1,7 +1,7 @@
 # <p align="center">Hi there 👋</p>
 Welcome to my profile
 
-[Linkedin 🔗](https://www.linkedin.com/in/cursed-ninja/) | [Email 📧](mailto:shivam.sm2002@gmail.com) | [Portfolio 🕸️](https://cursed-ninja.tech/)
+[Linkedin 🔗](https://www.linkedin.com/in/cursed-ninja/) | [Email 📧](mailto:shivam.sm2002@gmail.com) | [Portfolio 🕸️]([https://cursed-ninja.tech/](https://cursed-ninja.netlify.app/))
 
 ## 👨‍💻 About Me:
 I'm a versatile developer having worked with a lot of different technologies. 
